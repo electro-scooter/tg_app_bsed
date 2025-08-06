@@ -14,7 +14,7 @@ Telegram-бот для помощи туристам на Черноморско
 
 1. Клонируйте репозиторий:
 ```bash
-git clone https://github.com/your-username/black-sea-bot.git
+git clone https://github.com/your-username/tg_app_bsed.git
 cd black-sea-bot
 ```
 
@@ -66,5 +66,6 @@ python main.py
 - Адлер
 
 ## Лицензия
+
 
 MIT 
